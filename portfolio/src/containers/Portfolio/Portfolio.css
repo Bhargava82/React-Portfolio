@@ -1,0 +1,32 @@
+#coding-quiz,
+#password-generator,
+#weather-dashboard,
+#track-finder-img,
+#covid-img,
+#eat-da-burgers {
+  height: 75%;
+  width: 75%;
+}
+
+h1 {
+  font-family: "Kaushan Script", cursive;
+  text-align: center;
+  padding: 20px;
+  font-size: 30px;
+  font-size: 60px;
+  color: black;
+}
+
+img {
+  border-radius: 10px;
+}
+
+.row {
+  background-color: #cedafb;
+  border-radius: 12px;
+  width: 90%;
+}
+
+.col {
+  align-items: center;
+}

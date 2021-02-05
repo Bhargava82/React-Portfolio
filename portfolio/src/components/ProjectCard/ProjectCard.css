@@ -1,0 +1,10 @@
+.btn:hover {
+  background-color: #85d388;
+  color: grey;
+}
+.btn {
+  background-color: #ee85b6;
+  color: black;
+  font-family: "Kaushan Script", cursive;
+  border-color: black;
+}

@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "Code Crushers App",
+      "image": "../../assets/portfolio-images/RM_Home.png",
+      "alt": "code crusher app",
+      "description": "Practice on a App about Coding language.",
+      "link": "https://github.com/Bhargava82/code-crushers-survive-the-banana-force"
+    },
+    {
+      "id": 2,
+      "name": "Senior Travel COVID Care",
+      "image": "./assets/portfolio-images/Senior Travel Covid Care.png",
+      "alt": "Senior Travel COVID Care",
+      "description": "Application that utilizes a medicare and physician registry API. Target audience is senior citizens. Two APIs were used in the creation as well as a link to Google maps upon selection of a physician.",
+      "link": "https://github.com/Bhargava82/Senior-Travel-Covid-Care"
+    },
+    {
+      "id": 3,
+      "name": "Eat-Da-Burgers App",
+      "image": "https://github.com/bethpresten/eat-da-burger/blob/main/public/assets/burger-app.gif?raw=true",
+      "alt": "Eat Da Burgers App",
+      "description": "JavaScript + JQuery application that utilizes the open weather API. Application stores user info upon button click to deliver the current and 5-day forecast for the inputted city. Previous searched city is saved as a button so the user can search the same city with ease.",
+      "link": "https://github.com/Bhargava82/burger-joint"
+    },
+    {
+      "id": 4,
+      "name": "Coding Quiz",
+      "image": "./assets/portfolio-images/CodingQuiz.png",
+      "alt": "Coding Quiz",
+      "description": "JavaScript created application that utilizes local storage and timer functionalities. User is scored based on time elapsed and correct versus incorrect questions. Scores are saved and generated on a high scores html.",
+      "link": "https://github.com/Bhargava82/Web-API-Code-Quiz"
+    },
+    {
+      "id": 5,
+      "name": "Password Generator",
+      "image": "./assets/portfolio-images/password-generator.png",
+      "alt": "Password Generator",
+      "description": "JavaScript generated application that utilizes user input to deliver a random password.",
+      "link": "https://github.com/Bhargava82/password-generator"
+    },
+    {
+      "id": 6,
+      "name": "Weather Dashboard",
+      "image": "https://github.com/bethpresten/weatherAPI-presten/raw/master/assets/weatherapi.png",
+      "alt": "Weather Dashboard",
+      "description": "Student",
+      "link": "https://github.com/Bhargava82/weather-dashboard"
+    }
+  ]
