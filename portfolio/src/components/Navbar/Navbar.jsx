@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-sm navbar-light">
       <Link to="/" className="navbar-brand">
-        Beth Presten
+        Bhargava Patel
       </Link>
       <button
         className="navbar-toggler"
