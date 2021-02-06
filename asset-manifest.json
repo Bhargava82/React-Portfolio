@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.819a9629.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.04d63762.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.04d63762.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.82808642.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.82808642.js.map",
+    "static/js/2.3965debd.chunk.js": "/React-Portfolio/static/js/2.3965debd.chunk.js",
+    "static/js/2.3965debd.chunk.js.map": "/React-Portfolio/static/js/2.3965debd.chunk.js.map",
+    "static/js/3.6f98e693.chunk.js": "/React-Portfolio/static/js/3.6f98e693.chunk.js",
+    "static/js/3.6f98e693.chunk.js.map": "/React-Portfolio/static/js/3.6f98e693.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.819a9629.chunk.css.map": "/React-Portfolio/static/css/main.819a9629.chunk.css.map",
+    "static/js/2.3965debd.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.3965debd.chunk.js.LICENSE.txt",
+    "static/media/CodingQuiz.6ec8e16d.png": "/React-Portfolio/static/media/CodingQuiz.6ec8e16d.png",
+    "static/media/password-generator.7978642a.png": "/React-Portfolio/static/media/password-generator.7978642a.png",
+    "static/media/senior-travel-covid-care.40e67c01.png": "/React-Portfolio/static/media/senior-travel-covid-care.40e67c01.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82808642.js",
+    "static/js/2.3965debd.chunk.js",
+    "static/css/main.819a9629.chunk.css",
+    "static/js/main.04d63762.chunk.js"
+  ]
+}
