@@ -8,7 +8,7 @@ const About = () => {
       <div className="container-fluid">
         <div className="row" id="about">
           <div className="col-sm-3">
-            <img src={PortPic} alt="Beth P running" id="biopic" />
+            <img src={PortPic} alt="resume-pic" id="biopic" />
           </div>
           <div className="col-sm-2"></div>
           <div className="col-sm-6" id="bio">
